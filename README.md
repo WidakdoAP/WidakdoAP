@@ -36,9 +36,11 @@ Editor:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
+```
                  .___                                              _____         /\ 
   ________ __  __| _/____     _______  _____              ________/ ____\       / / 
  /  ___/  |  \/ __ |/  _ \    \_  __ \/     \      ______ \_  __ \   __\       / /  
  \___ \|  |  / /_/ (  <_> )    |  | \/  Y Y  \    /_____/  |  | \/|  |        / /   
 /____  >____/\____ |\____/     |__|  |__|_|  /             |__|   |__|       / /    
      \/           \/                       \/                                \/     
+```
