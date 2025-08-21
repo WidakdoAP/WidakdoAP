@@ -49,7 +49,7 @@ Editor:
 ---
 
 ## Misc
-If you're using linux(I use Arch btw), paste this command to remove unnecessary package:
+If you're using linux (I use Arch btw), paste this command to remove unnecessary package:
 
 You're welcome. :)
 
