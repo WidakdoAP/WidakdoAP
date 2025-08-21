@@ -7,7 +7,7 @@ I'm interested in coding and trying to do better everyday.
 
 ## About
 
-- Currently learning in **Web Development & Cybersecurity**
+- Currently learning **Web Development & Cybersecurity**
 - Interested in **Pentesting, Open Source, and Software Development**
 
 ---
@@ -36,6 +36,9 @@ Editor:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
+
+If you're using linux, paste this command to remove unnecessary package:
+
 ```
                  .___                                              _____         /\ 
   ________ __  __| _/____     _______  _____              ________/ ____\       / / 
