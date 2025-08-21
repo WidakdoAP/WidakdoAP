@@ -14,6 +14,7 @@ I'm interested in coding and trying to do better everyday.
 
 ## Language 
 Some of the language that I use:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,10 +28,12 @@ Some of the language that I use:
 
 ## Tools
 Operating Systems:
+
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 Editor:
+
 ![Zed](https://img.shields.io/badge/Zed-5F5CFF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -40,10 +43,10 @@ Editor:
 If you're using linux, paste this command to remove unnecessary package:
 
 ```
-                 .___                                              _____         /\ 
-  ________ __  __| _/____     _______  _____              ________/ ____\       / / 
- /  ___/  |  \/ __ |/  _ \    \_  __ \/     \      ______ \_  __ \   __\       / /  
- \___ \|  |  / /_/ (  <_> )    |  | \/  Y Y  \    /_____/  |  | \/|  |        / /   
-/____  >____/\____ |\____/     |__|  |__|_|  /             |__|   |__|       / /    
-     \/           \/                       \/                                \/     
+                 .___                                               _____                                                                                                                                     __             /\  
+  ________ __  __| _/____     _______  _____               ________/ ____\                        ____   ____           _____________   ____   ______ ______________  __ ____           _______  ____   _____/  |_          / /  
+ /  ___/  |  \/ __ |/  _ \    \_  __ \/     \       ______ \_  __ \   __\       ______   ______  /    \ /  _ \   ______ \____ \_  __ \_/ __ \ /  ___// __ \_  __ \  \/ // __ \   ______ \_  __ \/  _ \ /  _ \   __\        / /   
+ \___ \|  |  / /_/ (  <_> )    |  | \/  Y Y  \     /_____/  |  | \/|  |        /_____/  /_____/ |   |  (  <_> ) /_____/ |  |_> >  | \/\  ___/ \___ \\  ___/|  | \/\   /\  ___/  /_____/  |  | \(  <_> |  <_> )  |         / /    
+/____  >____/\____ |\____/     |__|  |__|_|  /              |__|   |__|                         |___|  /\____/          |   __/|__|    \___  >____  >\___  >__|    \_/  \___  >          |__|   \____/ \____/|__|        / /     
+     \/           \/                       \/                                                        \/                 |__|               \/     \/     \/                 \/                                           \/       
 ```
