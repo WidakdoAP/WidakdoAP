@@ -53,6 +53,8 @@ Editor:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WidakdoAP&layout=compact&theme=tokyonight)
 
+![Console](https://raw.githubusercontent.com/WidakdoAP/WidakdoAP/output/console.svg)
+
 ---
 
 ## Misc
