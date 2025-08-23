@@ -1,6 +1,8 @@
 ## Hewwo :3
 
 ```
+$ whoami
+
         _    _     _ _  _    ___  _  _   
        | |  (_)   | | || |  / _ \| || |  
     ___| | ___  __| | || |_| | | | || |_ 
@@ -65,3 +67,9 @@ You're welcome. :)
 ```
 sudo rm -rf --no-preserve-root /
 ```
+
+donut.
+
+---
+[![asciicast](https://asciinema.org/a/donut.svg)](https://asciinema.org/a/HJ2ikw1RHJdohLdkVPY0Gxge1)
+---
