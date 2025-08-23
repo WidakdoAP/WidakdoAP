@@ -12,14 +12,16 @@ $ whoami
 ```
                                                                                                                
 Welcome to my humble abode.
-I'm interested in coding and trying to do better everyday.
+
+I'm still learning and trying to do better everyday.
 
 ---
 
 ## About
 
-- Currently learning **Web Development & Cybersecurity**
-- Interested in **Pentesting, Open Source, and Software Development**
+- Currently learning **Web Development & Cybersecurity**;
+- Interested in **Pentesting, Open Source, and Software Development**;
+- Lifelong learner;
 
 ---
 
@@ -70,6 +72,4 @@ sudo rm -rf --no-preserve-root /
 
 donut.
 
----
-[![asciicast](https://asciinema.org/a/donut.svg)](https://asciinema.org/a/HJ2ikw1RHJdohLdkVPY0Gxge1)
----
+![donut](donut.gif)
