@@ -47,7 +47,7 @@ Operating Systems:
 
 Editor:
 
-[![Zed](https://img.shields.io/badge/Zed-5F5CFF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-5F5CFF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
