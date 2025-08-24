@@ -15,6 +15,6 @@ const getContributions = require("./api");
     svg += `<text x="10" y="${20 + i * 20}">$ git commit -m "Commits: ${d.contributionCount} (${d.date})"</text>`;
   });
 
-  svg += `<text x="10" y="180" fill="lime">█</text></svg>`;
+  svg += `<text x="10" y="180" fill="white">|</text></svg>`;
   fs.writeFileSync("console.svg", svg);
 })();
