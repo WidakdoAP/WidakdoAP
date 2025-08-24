@@ -38,5 +38,5 @@ function randomChar() {
   }
 
   svg += `</svg>`;
-  fs.writeFileSync("matrix.svg", svg);
+  fs.writeFileSync("matriks.svg", svg);
 })();
