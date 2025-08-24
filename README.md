@@ -54,9 +54,7 @@ Editor:
 ---
 
 ## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WidakdoAP&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WidakdoAP&layout=compact&theme=tokyonight)
+![Console](https://raw.githubusercontent.com/WidakdoAP/WidakdoAP/output/console.svg)
 
 ---
 
