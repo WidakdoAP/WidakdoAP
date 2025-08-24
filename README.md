@@ -58,7 +58,7 @@ Editor:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WidakdoAP&layout=compact&theme=tokyonight)
 
-![Galaxy Spiral](https://raw.githubusercontent.com/<username>/<username>/output/galaxy.svg)
+![Galaxy Spiral](https://raw.githubusercontent.com/WidakdoAP/WidakdoAP/output/galaxy.svg)
 
 ---
 
