@@ -20,8 +20,8 @@ jobs:
       - run: npm install
       - run: |
           mkdir dist
-          GH_USERNAME=${{ github.repository_owner }} GH_TOKEN=${{ secrets.GH_TOKEN }} node matriks.js
-          mv matriks.svg dist/
+          GH_USERNAME=${{ github.repository_owner }} GH_TOKEN=${{ secrets.GH_TOKEN }} node galaxy.js
+          mv galaxy.svg dist/
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
