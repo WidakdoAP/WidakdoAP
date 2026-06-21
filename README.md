@@ -28,7 +28,6 @@ I'm still learning and trying to do better everyday.
 ## Language 
 Some of the language that I use:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -59,13 +58,6 @@ Editor:
 ---
 
 ## Misc
-If you're using linux (I use Arch btw), paste this command to remove unnecessary package:
-
-You're welcome. :)
-
-```
-sudo rm -rf --no-preserve-root /
-```
 
 donut.
 
