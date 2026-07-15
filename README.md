@@ -52,11 +52,6 @@ Editor:
 
 ---
 
-## Stats
-![Console](https://raw.githubusercontent.com/WidakdoAP/WidakdoAP/output/console.svg)
-
----
-
 ## Misc
 
 donut.
